@@ -1,0 +1,35 @@
+Machine Learning Books
+
+
+Parallel Distributed Processing: Explorations in the Microstructure of Cognition, Volume 1: Foundations.
+David E. Rumelhart, James L. McClelland and the PDP Research Group.
+
+
+Parallel Distributed Processing: Explorations in the Microstructure of Cognition, Volume 2: Psychological and Biological Models.
+David E. Rumelhart, James L. McClelland and the PDP Research Group.
+
+
+Self-Organizing Maps.
+Teuvo Kohonen.
+
+
+Machine Learning: An Artificial Intelligence Approach.
+Ryszard S. Michalski et al.
+(Vols. I, II & III)
+
+
+Machine Learning: A Multistrategy Approach, Volume IV. 
+Ryszard S. Michalski et al.
+
+
+Deep Learning.
+Ian Goodfellow, Yoshua Bengio, and Aaron Courville.
+
+
+Machine Learning Yearning: Technical Strategy for AI Engineers, In the Era of Deep Learning.
+Andrew Ng.
+
+
+
+
+
