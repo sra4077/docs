@@ -1,0 +1,68 @@
+Computer Science Related Books
+(In no particular order)
+
+
+Godel, Escher, Bach: an Eternal Golden Braid.
+Douglas R. Hofstadter.
+
+
+The New Turing Omnibus: 66 Excursions in Computer Science.
+A.K. Dewdney.
+
+
+Software Tools.
+Kernighan & Plauger.
+
+
+The C Programming Language.
+Brian W. Kernighan & Dennis M. Ritchie.
+
+
+JavaScript: The Good Parts.
+Douglas Crockford.
+
+
+Functional Programming in Scala.
+Paul Chiusano & Runar Bjarnason.
+
+
+Conceptual Structures: Information Processing in Mind and Machine.
+J.F. Sowa.
+
+
+Genetic Programming: On the Programming of Computers by Means of Natural Selection.
+John R. Koza.
+
+
+Genetic Programming II: Automatic Discovery of Reusable Programs.
+John R. Koza.
+
+
+Genetic Programming III: Darwinian Invention and Problem Solving.
+John. R. Koza.
+
+
+Genetic Programming IV: Routine Human-Competitive Machine Intelligence.
+John. R. Koza.
+
+
+Lisp.
+Patrick Winston & Berthold Horn.
+
+
+Programming in Prolog.
+William F. Clocksin & Christopher S. Mellish.
+
+
+Core Java. 
+Cay Horstmann & Gary Cornell.
+(From the single volume for JDK1.0 onwards)
+
+
+370/360 Assembler Language Programming.
+Nancy B. Stern, Alden Sager & Robert A. Stern.
+
+
+
+
+
